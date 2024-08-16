@@ -1,0 +1,30 @@
+.input {
+  margin: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-container {
+  margin: 20px 0;
+}
+
+.charts-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.chart-container {
+  width: 45%;
+}
+
+.product-list {
+  margin-top: 20px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 4px;
+}
